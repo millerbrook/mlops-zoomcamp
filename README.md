@@ -1,2 +1,2 @@
 # mlops-zoomcamp
-Example.
+Example. Another example.
